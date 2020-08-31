@@ -20,14 +20,14 @@ I am a front end developer specialized in SPA applications using React.js I real
  🐍 REST \
  🐰 Basic Firebase \
  🐗 Basic PHP \ 
- 🐵 Basic SQL \
+ 🐵 Basic SQL
 
 ### Best Values:
  💐 Motivation \
  🍃 Patience \
  🌳 Punctual \
  🍀 Open-minded \
- 🍄 Well organized \
+ 🍄 Well organized
 
 ### I hope you will have an awesome time and remember - You Only Live Once ✌️😋👍
 <!--
