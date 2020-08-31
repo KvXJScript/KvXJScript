@@ -5,7 +5,7 @@ I am a front end developer specialized in SPA applications using React.js I real
 👽 I’m currently working on: \
   🌀 Imagination Single Page Application using React, Redux, Firebase, Oauth and many, many more \ 
   🐸 Unit testing using JEST \
-  🏯 Gatsby/GraphQL project connected with WordPress which will help my sister \
+  🏯 Gatsby/GraphQL project connected with WordPress which will help my sister
 
 ### Skills:
  ⚡ React \
