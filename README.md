@@ -20,7 +20,7 @@ I am a front end developer specialized in SPA applications using React.js I real
  🐍 REST \
  🐰 Basic Firebase \
  🐗 Basic PHP \
- 🐵 Basic SQL \
+ 🐵 Basic SQL
 
 ### Best Values:
  💐 Motivation \
