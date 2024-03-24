@@ -14,12 +14,12 @@ I am a front end developer specialized in SPA applications using React.js I real
   🐻 SASS \
   🐷 React Router \
   🐨 Oauth \
-  🐭 CSS Modules \
+  🐭 CSS Modules
  
   🐍 REST \
   🐰 GraphQL \
   🧪 MUI \
-  🦋 Unit Testing \
+  🦋 Unit Testing
 
 ### Best Values:
  💐 Motivation \
