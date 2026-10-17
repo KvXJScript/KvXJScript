@@ -1,36 +1,61 @@
-### Hi there 👋 I'm Paul, I'm 24.
+### Hi there 👋 I'm Paul.
 
-I am a front end developer specialized in SPA applications using React.js I really love creating new things because you can create whatever you can imagine. I learned mostly from my home using udemy courses, youtube videos and documentation's. I am in love with highly specialized, optimized and well dress coded applications. 
+I'm a **Senior Fullstack Engineer** with nearly 6 years of experience building scalable platforms and AI-powered applications.
 
-### 👽 I’m currently working on: 
-  🌀 Investing app using newest React 19 solutions supplied with tailwind, React-hook-form, o-auth, firebase and many, many more
-  🦋 Improvement on my testing skills,
-  🚀 Python as I am mainly going forward Fullstack developer 
- 
+I specialize in taking products from business idea to production, from architecture and frontend to backend, AI integrations and deployment.
+
+Currently expanding my expertise in **AI Engineering**, focusing on agentic systems, LLM integrations and building intelligent, production-oriented applications.
+
+### 👽 I'm currently working on:
+🧠 Agentic AI, multi-agent systems and AI orchestration.  
+🤖 Building fullstack AI applications using MCP, RAG, LangChain and LangGraph.  
+🐍 Expanding my Python and AI Engineering expertise.  
+🚀 Context Engineering, Prompt Engineering and LLM Evaluation (Evals).  
+⚡ Leveraging Agentic AI to accelerate end-to-end software development.
+
 ### Skills:
-  ⛄ Next.js \
-  ⚡ React \
-  🐄 Docker \
-  🐕‍🦺 Typescript \
-  🐦 React-query \
-  🐱 Redux \
-  🐹 Styled-components \
-  🐮 BEM methodology \
-  🐻 SASS \
-  🐷 React Router \
-  🐨 Oauth \
-  🐭 CSS Modules
- 
-  🐍 REST \
-  🐰 GraphQL \
-  🧪 MUI \
-  🦋 Unit Testing
+
+**Frontend:**  
+⚡ React / Next.js  
+🐕 TypeScript / JavaScript  
+🎨 Tailwind CSS / Styled Components  
+🐦 Redux / React Query  
+
+**Backend & Databases:**  
+🐍 Python / Node.js  
+🔗 REST / GraphQL  
+🐘 PostgreSQL / MongoDB  
+⚡ Convex  
+
+**AI & LLM Engineering:**  
+🧠 Agentic AI / AI Agents  
+🤖 LLM Integration / AWS Bedrock  
+🔌 Model Context Protocol (MCP)  
+📚 Retrieval-Augmented Generation (RAG)  
+🔗 LangChain / LangGraph  
+🎯 Context Engineering / Prompt Engineering  
+🧪 LLM Evaluation (Evals) / Vector Search  
+
+**Cloud & Infrastructure:**  
+☁️ AWS  
+🐳 Docker  
+⚙️ CI/CD / Git / GitHub  
+📨 Kafka  
+
+**Testing:**  
+🧪 Jest / React Testing Library / Unit Testing  
+
+### Featured Projects:
+
+🚀 **[Vanguard-AI](https://github.com/KvXJScript/Vanguard-AI)** — Fullstack AI-powered code analysis platform featuring multi-agent audits and automated refactoring.
+
+👻 **[UX-Ghost-Buster](https://github.com/KvXJScript/UX-Ghost-Buster)** — AI-powered UX and accessibility auditor with multi-persona analysis and AI-generated code remediation.
 
 ### Best Values:
- 💐 Motivation \
- 🍃 Patience \
- 🌳 Punctual \
- 🍀 Open-minded \
- 🍄 Well organized
+🎯 End-to-end Product Ownership  
+🧠 Problem Solving & Architectural Thinking  
+🚀 Continuous Improvement  
+⚡ AI-Driven Development  
+🌱 Business-Oriented Engineering  
 
-### I hope you will have an awesome time!
+### Let's build something great! 🚀
